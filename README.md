@@ -7,3 +7,5 @@ I only used HTML and CSS for this project.
 Also first time using git in a project.
 
 Still a work in progress...
+
+You'll need to run `npm install` first.
